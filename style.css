@@ -1,0 +1,34 @@
+h1 {
+    text-align: center;
+    color: darkslategrey;
+}
+
+#row1 {
+    height: 150px;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 20px;
+    background-color: darkcyan;
+}
+
+#row2 {
+    height: 150px;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 20px;
+    background-color: darkgreen;
+}
+
+#row3 {
+    height: 150px;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 20px;
+    background-color: darkkhaki;
+}
